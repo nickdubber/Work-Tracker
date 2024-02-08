@@ -28,7 +28,7 @@ The objective of this project is to create a fun way to track work via a collect
     -------
     
 ## (Very) rough sketch
-![image](BasicSketch.png)
+![image](/images/BasicSketch.png)
 
 
 
